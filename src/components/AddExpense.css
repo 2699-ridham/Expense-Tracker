@@ -1,0 +1,31 @@
+
+.add-expense {
+    margin-top: 1rem;
+  }
+  
+  .add-expense h4 {
+    text-align: left;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.219);
+    margin-bottom: 1rem;
+  }
+  .add-expense h5{
+    text-align: left;
+  }
+  .input-container {
+    padding: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 100%;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 1rem;
+    background-color: rgba(182, 9, 235, 0.425);
+    border: none;
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+  }

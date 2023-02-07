@@ -1,0 +1,33 @@
+.income-expense{
+    height: 6rem;
+    width: 100%;
+    background-color: white ;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 4px 6px #6e6c6c65;
+}
+
+.inc{
+    width: 50%;
+    border-right: 1px solid rgba(0, 0, 0, 0.185);
+}
+
+ p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.exp{
+    width: 50%;
+}
+
+.income{
+    color: rgb(19, 209, 98);
+}
+
+.expenses{
+    color: rgba(255, 0, 0, 0.822);
+}
